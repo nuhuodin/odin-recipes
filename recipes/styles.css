@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-family: fantasy;
+    font-size: 25px;
+    background-color: #002344;
+}
+
+h3 {
+  color: #005588;  
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
